@@ -55,4 +55,4 @@ I looked at the distributions of the data and the value counts for the various c
 ![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Jobs_per_domain.png)
 ![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Most_jobs_per_location.png)
 ![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Type_o_company_ownership.png)
-![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/WordCloud_based_on_JobDescription.png)
+![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/WordCloud.png)
