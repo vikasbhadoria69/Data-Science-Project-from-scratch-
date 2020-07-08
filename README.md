@@ -50,8 +50,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the Exploratory Data Analysis. 
 
-![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Average_salary_for_each_domain.png)
-![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Feature_Correlations.png)
+![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Average_salary_for_each_domain_2.png)
+![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Feature_correlations_2.png)
 ![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Jobs_per_domain.png)
 ![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Most_jobs_per_location.png)
 ![alt text](https://github.com/vikasbhadoria69/Data-Science-Project-from-scratch-/blob/master/EDA_Graphs/Type_o_company_ownership.png)
